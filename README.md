@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">my-team-page-master</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -27,7 +27,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/diogomiaguy/404-not-found-master/blob/master/img/Screenshot.png)
+![screenshot](https://github.com/diogomiaguy/my-team-page-master/blob/master/img/Screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
